@@ -70,4 +70,4 @@ required to use, modify, or distribute this repository.
 
 The MIT License permits commercial and non-commercial use, provided that the
 copyright notice and license text are retained. See
-[`LICENSE-MIT`](LICENSE-MIT) for the complete terms.
+[`LICENSE`](LICENSE) for the complete terms.
