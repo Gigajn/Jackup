@@ -1,0 +1,15 @@
+[package]
+name = "jackup-orchestrator"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+jackup-core.workspace = true
+jackup-storage.workspace = true
+thiserror.workspace = true
+

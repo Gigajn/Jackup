@@ -1,0 +1,8 @@
+/target/
+/.env
+*.local
+*.secret
+.DS_Store
+
+# Local planning document; keep the roadmap out of version control.
+/docs/ROADMAP.md
